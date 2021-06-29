@@ -1,0 +1,6 @@
+一、网络配置
+1.更改host文件
+  在terminal中输入
+  sudo gedit /etc/hosts
+  添加需要的IP
+  
